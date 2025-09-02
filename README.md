@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React-Form-Zod
 
 Utilizando Zod para los formularios
@@ -101,4 +100,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT.
->>>>>>> b0ee52d93faf751c7ea11972567b0f1bb80f1e90
+
